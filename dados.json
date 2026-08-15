@@ -1,11 +1,11 @@
 [
   {
-    "name": "WolfishTools",
+    "name": "WFTools",
     "url": "https://projetos-dot-net.github.io/WolfishTools/",
     "image": "https://github.com/projetos-dot-net.png"
   },
   {
-    "name": "Wolfish.Maia",
+    "name": "Wolfish.Maia Nuget",
     "url": "https://www.nuget.org/packages/Wolfish.Maia",
     "image": "https://www.nuget.org/Content/gallery/img/logo-header.svg"
   }
